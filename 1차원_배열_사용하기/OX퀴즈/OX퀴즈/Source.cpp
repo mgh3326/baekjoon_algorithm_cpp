@@ -3,7 +3,7 @@ using namespace std;
 int main(void) {
 	int num = 0;
 	scanf("%d", &num);
-	char str[80];
+	char str[81];
 	int index;
 	int weight;
 	int score;

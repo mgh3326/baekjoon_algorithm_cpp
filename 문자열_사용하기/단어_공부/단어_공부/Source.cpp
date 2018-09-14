@@ -27,7 +27,23 @@ int main(void) {
 
 		index++;
 	}
-	int max = *max_element(alpha, alpha + 26);
+	int max = 0;
+	char maxchar;
+	for (int i = 0; i < 26; i++)
+		if (max < alpha[i])
+		{
+			max = alpha[i];
+			maxchar = i + 65;
+		}
+		else if (max == alpha[i])
+		{
+			maxchar = '?';
+
+		}
+	printf("%c\n", maxchar);
+
+	//아래 꺼가 내가 한건데 메모리는 똑같네 딥빡
+	/*int max = *max_element(alpha, alpha + 26);
 	int max_count = 0;
 	for (int i = 0; i < 26; i++) {
 		if (alpha[i] == max)
@@ -41,8 +57,7 @@ int main(void) {
 		}
 
 	}
-	printf("%c", distance(alpha, max_element(alpha, alpha + 26)) + 65);
-
+	printf("%c", distance(alpha, max_element(alpha, alpha + 26)) + 65);*/
 	return 0;
 }
 //모두 소문자로 이루어 져있다.
