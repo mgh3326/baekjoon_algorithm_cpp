@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "분수찾기", "분수찾기\분수찾기.vcxproj", "{96BDD782-D2DD-445D-8B97-70D765634333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Debug|x64.ActiveCfg = Debug|x64
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Debug|x64.Build.0 = Debug|x64
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Debug|x86.ActiveCfg = Debug|Win32
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Debug|x86.Build.0 = Debug|Win32
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Release|x64.ActiveCfg = Release|x64
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Release|x64.Build.0 = Release|x64
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Release|x86.ActiveCfg = Release|Win32
+		{96BDD782-D2DD-445D-8B97-70D765634333}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD59063-0115-4BC8-AB53-CD76F8A7AF09}
+	EndGlobalSection
+EndGlobal
