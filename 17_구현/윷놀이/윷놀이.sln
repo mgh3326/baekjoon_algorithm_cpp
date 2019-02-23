@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "윷놀이", "윷놀이\윷놀이.vcxproj", "{354633F2-974D-4248-AD6B-DF0E1A534DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Debug|x64.ActiveCfg = Debug|x64
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Debug|x64.Build.0 = Debug|x64
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Debug|x86.Build.0 = Debug|Win32
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Release|x64.ActiveCfg = Release|x64
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Release|x64.Build.0 = Release|x64
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Release|x86.ActiveCfg = Release|Win32
+		{354633F2-974D-4248-AD6B-DF0E1A534DDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26E6F6A-B088-40A2-9B92-7774CF9B055D}
+	EndGlobalSection
+EndGlobal
